@@ -35,3 +35,5 @@ def menu():
 
 figura = controlador("Seleccione una figura geométrica:\n1. Triángulo\n2. Cuadrado\n3. Círculo\n4. Cubo\n5. Pentagono\n6. Rombo\n7. Trapecio\n8. Cilindro\n9. Prisma\n10. Cono\n11. Salir\n")
 menu()
+Print("Gracias por usar mi programa de geometria.")
+# Aquí puedes agregar la lógica para calcular el área o volumen de la figura seleccionada, dependiendo de la opción elegida.
